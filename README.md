@@ -1,10 +1,6 @@
 Personal Goals
 ==============
 
-Personal goals made open source.
-
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
-
 # Overarching Goals
 1. Build Stunning Dev Portfolio
 2. Do LeetCode 150
@@ -29,8 +25,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] Finish Web Accessibility
 - [ ] Finish josh's articles related to my portfolio
 - [ ] Build own developer blg
-- [ ] 
-
 ### Backlog: Side Projects :)
 - [ ] Work on Chatbot UI
 
