@@ -13,7 +13,7 @@ Personal Goals
 
 # November 18, 2025
 
-### This Week's Goal: Focus on Building Portfolio and to some extent Learn Accessibility from web.dev.
+### This Week's Goal: Focus on Building Dev Portfolio and to some extent Learn Accessibility from web.dev.
 
 ## Things I'll Do This Week:
 - [x] Portfolio building
