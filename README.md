@@ -24,9 +24,11 @@ Personal Goals
 - [x] Create my Portfolio 
 - [ ] Finish Web Accessibility
 - [ ] Finish josh's articles related to my portfolio
-- [ ] Build own developer blg
+- [ ] Build own developer blog
+- [ ] 
 ### Backlog: Side Projects :)
 - [ ] Work on Chatbot UI
+- [ ] Read Web Standards module at [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
 
 ### Additional Things
 - [ ] Read the blog Next Level frosted glass by josh Coameau
