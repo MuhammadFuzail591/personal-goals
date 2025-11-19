@@ -28,4 +28,7 @@ Personal Goals
 ### Backlog: Side Projects :)
 - [ ] Work on Chatbot UI
 
+### Additional Things
+- [ ] Read the blog Next Level frosted glass by josh Coameau
+
 ### Backlog: Code Things I Want to Do/Play With
