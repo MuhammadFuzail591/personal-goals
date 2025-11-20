@@ -33,5 +33,5 @@ Personal Goals
 ### Additional Things
 - [x] Read the blog Next Level frosted glass by josh Coameau
 - [x] Learned Slots Pattern and Polymorphism in React Component API Design
-- [x] Learned About <figure> tag and <picture> tag.
+- [x] Learned About figure tag and picture tag.
 ### Backlog: Code Things I Want to Do/Play With
