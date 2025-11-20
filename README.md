@@ -31,6 +31,7 @@ Personal Goals
 - [ ] Read Web Standards module at [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
 
 ### Additional Things
-- [ ] Read the blog Next Level frosted glass by josh Coameau
-
+- [x] Read the blog Next Level frosted glass by josh Coameau
+- [x] Learned Slots Pattern and Polymorphism in React Component API Design
+- [x] Learned About <figure> tag and <picture> tag.
 ### Backlog: Code Things I Want to Do/Play With
