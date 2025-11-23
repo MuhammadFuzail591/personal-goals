@@ -11,21 +11,26 @@ Personal Goals
 6. Start my own Blog 
 7. Be kind
 
-# November 18, 2025
+# November 23-30, 2025
 
-### This Week's Goal: Focus on Building Dev Portfolio and to some extent Learn Accessibility from web.dev.
+## This Week's Goal: Advance features inside Portfolio
 
-## Things I'll Do This Week:
-- [x] Portfolio building
+## Things I'll do this Week:
+- [ ] Sound Effect inside portfolio
+- [ ] Icons boop effect
+- [ ] Detailed pages about each section
+- [ ] Build blog (optional)
 - [ ] Read Josh's articles about cool stuff I want inside my portfolio
-- [ ] Continue learning about Web Accessibility
+- [ ] Finish Web Accessibility
+
 ### Things I'll Do This Month: November 2014
 - [ ] Read a book (How Computers Work)
-- [x] Create my Portfolio 
+- [ ] Create my Portfolio 
 - [ ] Finish Web Accessibility
 - [ ] Finish josh's articles related to my portfolio
 - [ ] Build own developer blog
-- [ ] 
+
+
 ### Backlog: Side Projects :)
 - [ ] Work on Chatbot UI
 - [ ] Read Web Standards module at [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
