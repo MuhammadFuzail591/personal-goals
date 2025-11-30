@@ -16,12 +16,7 @@ Personal Goals
 ## This Week's Goal: Advance features inside Portfolio
 
 ## Things I'll do this Week:
-- [ ] Sound Effect inside portfolio
-- [x] Icons boop effect
-- [x] Detailed pages about each section
-- [ ] Build blog (optional)
-- [x] Read Josh's articles about cool stuff I want inside my portfolio
-- [x] Finish Web Accessibility
+
 
 ### Things I'll Do This Month: November 2024
 - [ ] Read a book (How Computers Work)
