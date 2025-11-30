@@ -17,17 +17,17 @@ Personal Goals
 
 ## Things I'll do this Week:
 - [ ] Sound Effect inside portfolio
-- [ ] Icons boop effect
-- [ ] Detailed pages about each section
+- [x] Icons boop effect
+- [x] Detailed pages about each section
 - [ ] Build blog (optional)
-- [ ] Read Josh's articles about cool stuff I want inside my portfolio
-- [ ] Finish Web Accessibility
+- [x] Read Josh's articles about cool stuff I want inside my portfolio
+- [x] Finish Web Accessibility
 
-### Things I'll Do This Month: November 2014
+### Things I'll Do This Month: November 2024
 - [ ] Read a book (How Computers Work)
-- [ ] Create my Portfolio 
-- [ ] Finish Web Accessibility
-- [ ] Finish josh's articles related to my portfolio
+- [x] Create my Portfolio 
+- [x] Finish Web Accessibility
+- [x] Finish josh's articles related to my portfolio
 - [ ] Build own developer blog
 
 
