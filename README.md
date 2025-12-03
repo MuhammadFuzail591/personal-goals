@@ -11,27 +11,30 @@ Personal Goals
 6. Start my own Blog 
 7. Be kind
 
-# November 23-30, 2025
+# December 01-07, 2025
 
 ## This Week's Goal: Advance features inside Portfolio
 
 ## Things I'll do this Week:
+- [x] 1. All the animations 
+- [ ] 2. Sound effects
+- [ ] 3. Specific animations for icons
+- [ ] 4. resend Email integration
+- [ ] 5. Flag in hero section with animation
+- [ ] 6. Debugging CSS 100 pages
 
-
-### Things I'll Do This Month: November 2024
+### Things I'll Do This Month: December 2024
 - [ ] Read a book (How Computers Work)
+- [ ] Read book Debugging CSS
 - [x] Create my Portfolio 
 - [x] Finish Web Accessibility
 - [x] Finish josh's articles related to my portfolio
 - [ ] Build own developer blog
 
-
 ### Backlog: Side Projects :)
 - [ ] Work on Chatbot UI
 - [ ] Read Web Standards module at [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
 
-### Additional Things
-- [x] Read the blog Next Level frosted glass by josh Coameau
-- [x] Learned Slots Pattern and Polymorphism in React Component API Design
-- [x] Learned About figure tag and picture tag.
-### Backlog: Code Things I Want to Do/Play With
+
+
+
