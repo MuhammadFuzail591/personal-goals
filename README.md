@@ -11,17 +11,18 @@ Personal Goals
 6. Start my own Blog 
 7. Be kind
 
-# December 01-07, 2025
+# December 07-14, 2025
 
-## This Week's Goal: Advance features inside Portfolio
+## This Week's Goal: Portfolio testing and blog
 
 ## Things I'll do this Week:
-- [x] 1. All the animations 
-- [ ] 2. Sound effects
-- [ ] 3. Specific animations for icons
-- [ ] 4. resend Email integration
-- [ ] 5. Flag in hero section with animation
-- [ ] 6. Debugging CSS 100 pages
+- [ ] Theme Startegy change in portfolio
+- [ ] Accessibility and performance testing
+- [ ] More work on project slider
+- [ ] Blog initialize
+- [ ] Game Dev project start
+- [ ] Strive for business management project
+- [ ] Finish "Master the art of debugging CSS" by Ahmed Shadeed
 
 ### Things I'll Do This Month: December 2024
 - [ ] Read a book (How Computers Work)
