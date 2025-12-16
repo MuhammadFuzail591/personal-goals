@@ -11,22 +11,19 @@ Personal Goals
 6. Start my own Blog 
 7. Be kind
 
-# December 07-14, 2025
+# December 14-21, 2025
 
-## This Week's Goal: Portfolio testing and blog
+## This Week's Goal: Book and Game Dev
 
-## Things I'll do this Week:
-- [ ] Theme Startegy change in portfolio
-- [ ] Accessibility and performance testing
-- [ ] More work on project slider
-- [ ] Blog initialize
-- [ ] Game Dev project start
-- [ ] Strive for business management project
-- [ ] Finish "Master the art of debugging CSS" by Ahmed Shadeed
+## Things I'll do This Week:
+- [ ] Game Dev Project v1 complete
+- [ ] Book by Rehan bhai
+- [ ] Hackathon book and RAG chatbot
+- [ ] blog initialize (optional)
 
 ### Things I'll Do This Month: December 2024
 - [ ] Read a book (How Computers Work)
-- [ ] Read book Debugging CSS
+- [x] Read book Debugging CSS
 - [x] Create my Portfolio 
 - [x] Finish Web Accessibility
 - [x] Finish josh's articles related to my portfolio
