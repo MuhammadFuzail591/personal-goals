@@ -11,15 +11,15 @@ Personal Goals
 6. Start my own Blog 
 7. Be kind
 
-# December 14-21, 2025
+# December 21-28, 2025
 
-## This Week's Goal: Book and Game Dev
+## This Week's Goal: Game Dev and IS Project
 
 ## Things I'll do This Week:
-- [ ] Game Dev Project v1 complete
-- [ ] Book by Rehan bhai
-- [ ] Hackathon book and RAG chatbot
-- [ ] blog initialize (optional)
+
+- [ ] Game Dev Project complete
+- [ ] Book Normal UI
+- [ ] Information Security Project
 
 ### Things I'll Do This Month: December 2024
 - [ ] Read a book (How Computers Work)
